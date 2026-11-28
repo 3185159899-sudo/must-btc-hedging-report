@@ -1,6 +1,6 @@
 ﻿Variable,Source,Raw_Rows_All,Actual_Start,Actual_End,Sample_Rows_Valid,Duplicate_Dates_Removed,Missing_NA_Dropped,Non_Positive_Dropped,Missing_Calendar_Days_Count,Missing_Calendar_Dates,Extreme_Jump_gt50pct_Flagged
 BTC_Price_USD,Blockchain.com Market Price (USD),6535,2016-01-01,2026-10-31,3957,0,0,0,0,,0
 BTC_Tx_Count,Blockchain.com Confirmed Transactions Per Day,6518,2016-01-01,2026-10-31,3954,0,0,0,3,2025-11-13; 2025-11-14; 2025-11-15,32
-FTSE100_Level,Yahoo Finance (^FTSE Close Price Index),2736,2016-01-04,2026-10-30,2736,0,0,0,N/A (Trading Days),,0
+FTSE100_Level,Yahoo Finance (^FTSE Close Price Index),4114,2016-01-04,2026-10-30,2736,0,0,0,N/A (Trading Days),,0
 USD_per_EUR,FRED DEXUSEU,7275,2016-01-04,2026-10-30,2706,0,120,0,N/A (Trading Days),,0
 USD_per_GBP,FRED DEXUSUK,14580,2016-01-04,2026-10-30,2706,0,120,0,N/A (Trading Days),,0
